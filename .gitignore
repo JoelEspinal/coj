@@ -21,3 +21,21 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/.metadata/
+Numerics/.settings/org.eclipse.jdt.core.prefs
+Numerics/.settings/org.eclipse.core.resources.prefs
+Numerics/.project
+Numerics/.gitignore
+Numerics/.classpath
+.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/segments_3
+.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/segments.gen
+.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_2.tis
+.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_2.tii
+.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_2.prx
+.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_2.nrm
+.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_2.frq
+.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_2.fnm
+.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_2.fdx
+.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_2.fdt
+.recommenders/caches/manual-mappings.json
+.recommenders/caches/identified-project-coordinates.json
